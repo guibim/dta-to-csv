@@ -14,7 +14,7 @@ Install Python and the required libraries:
 pip install pandas pyreadstat
 ```
 
-##How to Use
+## How to Use
 
 Place your .dta file inside the Windows Downloads folder.
 
@@ -26,6 +26,6 @@ output_filename = "xxxxx.csv"
 ```
 
 Run the script:
-#python converter.py
+# python converter.py
 
 The .csv file will be automatically generated inside the Downloads folder.
