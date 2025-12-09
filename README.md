@@ -25,6 +25,6 @@ pip install pandas pyreadstat
 
 Execute o script:
 
-python converter.py
+python dtacsv.py
 
 O arquivo .csv será gerado automaticamente na pasta Downloads.
