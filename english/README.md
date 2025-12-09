@@ -26,6 +26,6 @@ output_filename = "xxxxx.csv"
 ```
 
 Run the script:
-# python converter.py
+python dtacsv_eng.py
 
 The .csv file will be automatically generated inside the Downloads folder.
